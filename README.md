@@ -24,3 +24,6 @@ Add arguments to the Generic JVM Argument line
 
 # updateSSLConfigs.py
 Change the SSL Configurations to TLS v1.2 or whatever you wish
+
+# changeRuntimeTrace.py
+Allows to change the runtime trace of a server (file name, max size, number of files max, and trace format)
