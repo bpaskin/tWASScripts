@@ -27,3 +27,6 @@ Change the SSL Configurations to TLS v1.2 or whatever you wish
 
 # changeRuntimeTrace.py
 Allows to change the runtime trace of a server (file name, max size, number of files max, and trace format)
+
+# PTTwithTLSv2.md
+How to use the Performance Testing Toolkit with TLSv1.2
