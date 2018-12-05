@@ -30,3 +30,6 @@ Allows to change the runtime trace of a server (file name, max size, number of f
 
 # PTTwithTLSv2.md
 How to use the Performance Testing Toolkit with TLSv1.2
+
+# setSecurityProperty.py
+Sets a custom property under global security
