@@ -33,3 +33,6 @@ How to use the Performance Testing Toolkit with TLSv1.2
 
 # setSecurityProperty.py
 Sets a custom property under global security
+
+# addAndConfigAppServers.py
+Adds x number of App Servers to a Node, configures the JVM options and custom properties, environmental entries, custom service, HTTP and HTTPS port numbers, and Web Container thread pool
