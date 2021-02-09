@@ -39,3 +39,6 @@ Adds x number of App Servers to a Node, configures the JVM options and custom pr
 
 # updateDSCustomProps.py #
 Update all datasources with a custom property.
+
+# changeLDAPUseridPw.py
+This will change the userid and password for a standalone LDAP given different environments.  Once changed, the soap.client.props are also updated to refelct the new userid and password.
