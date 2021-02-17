@@ -42,3 +42,6 @@ Update all datasources with a custom property.
 
 # changeLDAPUseridPw.py
 This will change the userid and password for a standalone LDAP given different environments.  Once changed, the soap.client.props are also updated to refelct the new userid and password.
+
+# UpdateSDKandJVMProp
+Shell and Jython script.  Finds tWAS instance and updates the profiles and servers to use the Java 1.8 Bundled with tWAS and then goes into each profile with wsadmin and adds a JVM customer property, if not already there.
